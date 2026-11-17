@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Acer/Documents/Calculator/build/cmake_install.cmake",
+		"C:/Users/Acer/Documents/Calculator/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Acer/Documents/Calculator/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/Acer/Documents/Calculator/build/_deps/glfw-build/examples/cmake_install.cmake",
+		"C:/Users/Acer/Documents/Calculator/build/_deps/glfw-build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
